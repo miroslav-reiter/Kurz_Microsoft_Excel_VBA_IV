@@ -1,6 +1,7 @@
 Odkryt všetky pracovné hárky naraz
 Unhide All Worksheets at One Go
 
+```ruby
 ' Tento kód skryje všetky hárky v zošite
 ' This code will unhide all sheets in the workbook
 Sub UnhideAllWoksheets()
@@ -9,3 +10,4 @@ Sub UnhideAllWoksheets()
 		ws.Visible = xlSheetVisible
 	Next ws
 End Sub
+```
