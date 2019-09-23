@@ -1,4 +1,4 @@
-```
+```VB
 ' Zabezpečte naraz všetky pracovné hárky 
 ' Protect All Worksheets At One Go
 
