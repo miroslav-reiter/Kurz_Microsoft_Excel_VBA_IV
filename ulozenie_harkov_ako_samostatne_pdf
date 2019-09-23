@@ -6,6 +6,9 @@ Sub SaveWorkshetAsPDF()
 	For Each ws In Worksheets
 		ws.ExportAsFixedFormat xlTypePDF, "C:\Test" & ws.Name & ".pdf"
 	Next ws
+	
+' Dalsi Sposob
+' ThisWorkbook.ExportAsFixedFormat xlTypePDF, "C:\Test" & ThisWorkbook.Name & ".pdf"
 End Sub
 
 ```
