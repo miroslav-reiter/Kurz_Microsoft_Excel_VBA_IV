@@ -1,5 +1,4 @@
-
-```
+```VB
 'Skryť všetky pracovné listy okrem aktívneho hárku
 'Hide All Worksheets Except the Active Sheet
 
