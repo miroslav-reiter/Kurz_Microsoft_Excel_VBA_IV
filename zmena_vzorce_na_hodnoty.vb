@@ -1,4 +1,4 @@
-```
+```VB
 ' Premeniť všetky vzorce na hodnoty
 ' Convert All Formulas into Values
 Sub ConvertToValues()
