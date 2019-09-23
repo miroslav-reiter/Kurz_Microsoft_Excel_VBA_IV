@@ -1,4 +1,4 @@
-```
+```VB
 ' Ako získať iba číselnú časť z reťazca v Exceli
 ' How to Get Only the Numeric Part from a String in Excel
 Function GetNumeric(CellRef As String)
